@@ -1,1 +1,1 @@
-# Plant-disease-detection
+# Plant-disease-detection for sustainable agriculture 
